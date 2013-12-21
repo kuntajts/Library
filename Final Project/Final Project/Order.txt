@@ -1,0 +1,17 @@
+Order Reciept
+*******************************************
+1: Hansel and Gretel
+Need 3 more copies of this book.
+
+*******************************************
+2: Harry Potter
+This book has does not need to be orded anymore
+
+*******************************************
+3: Hunger Games
+Need 5 more copies of this book.
+
+*******************************************
+4: Moby Dick
+Need 5 more copies of this book.
+

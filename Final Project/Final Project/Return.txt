@@ -1,0 +1,17 @@
+Return Reciept
+*******************************************
+1: Hansel and Gretel
+This book does not need any returns
+
+*******************************************
+2: Harry Potter
+Need to return 1 copies of this book.
+
+*******************************************
+3: Hunger Games
+This book does not need any returns
+
+*******************************************
+4: Moby Dick
+This book does not need any returns
+

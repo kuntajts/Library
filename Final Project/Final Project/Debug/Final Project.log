@@ -1,0 +1,43 @@
+﻿Build started 12/17/2013 4:29:17 PM.
+     1>Project "C:\Users\Jordan Smith\documents\visual studio 2010\Projects\Final Project\Final Project\Final Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Final Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Final Project.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BookTracker.cpp
+         BookTracker.cpp
+     1>c:\users\jordan smith\documents\visual studio 2010\projects\final project\final project\booktracker.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\jordan smith\documents\visual studio 2010\projects\final project\final project\booktracker.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\jordan smith\documents\visual studio 2010\projects\final project\final project\booktracker.cpp(280): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\jordan smith\documents\visual studio 2010\projects\final project\final project\booktracker.cpp(283): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\jordan smith\documents\visual studio 2010\projects\final project\final project\booktracker.cpp(313): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\jordan smith\documents\visual studio 2010\projects\final project\final project\booktracker.cpp(316): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jordan Smith\documents\visual studio 2010\Projects\Final Project\Debug\Final Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Final Project.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jordan Smith\documents\visual studio 2010\Projects\Final Project\Debug\Final Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jordan Smith\documents\visual studio 2010\Projects\Final Project\Debug\Final Project.lib" /MACHINE:X86 "Debug\Final Project.exe.embed.manifest.res"
+         Debug\BookNode.obj
+         Debug\BookTracker.obj
+         Debug\Costumer.obj
+         "Debug\Final Project.obj"
+         Debug\Inventory.obj
+         Debug\stdafx.obj
+         Debug\WaitList.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Final Project.exe.embed.manifest" /manifest "Debug\Final Project.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Final Project.vcxproj -> C:\Users\Jordan Smith\documents\visual studio 2010\Projects\Final Project\Debug\Final Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Final Project.unsuccessfulbuild".
+         Touching "Debug\Final Project.lastbuildstate".
+     1>Done Building Project "C:\Users\Jordan Smith\documents\visual studio 2010\Projects\Final Project\Final Project\Final Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.44
